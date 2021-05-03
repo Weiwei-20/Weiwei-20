@@ -2,7 +2,7 @@
 
 
 - 🔭 I just graduated from coding boot camp. Woohoo! Currently working on practicing my learning and looking for a career in the tech world! 
-- 🌱 I’m currently learning Java, JavaScript, maybe learn react or vue soon. 
+- 🌱 I’m currently sharping my skills on JavaScript and Java. 
 - 👯 I’m looking to collaborate on fun and meaningful projects that improves people's life. 
 - 🤔 I’m looking for help with how to enter the tech field. 
 - 💬 Ask me about how to cook healthy Chinese meal in 15 mins. :P 
