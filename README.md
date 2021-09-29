@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm a boot camp graduate and continute software development learner.
-- 🌱 I’m currently sharping my skills on Java, JavaScript, HTML, CSS, and React.
+- 🌱 I’m currently sharping my skills on Java, JavaScript, HTML, CSS, Angular, Selenium, Cucumber, and TypeScript. 
 - 👯 I’m looking to collaborate on fun and meaningful projects that improves people's life. 
 - 💬 Ask me about how to cook healthy Chinese meal in 15 mins. :P 
 - 📫 How to reach me: weiwei.jiang20@gmail.com
